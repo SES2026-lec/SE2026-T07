@@ -1,0 +1,10 @@
+from flask import Flask
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "Hello, Flask!"
+
+@app.route("/member-c0c25036")
+def member_c0c25036():
+    return "T07 member: C0C25036"
