@@ -8,3 +8,7 @@ def home():
 @app.route("/member-c0c25036")
 def member_c0c25036():
     return "T07 member: C0C25036"
+
+@app.route("/member-c0c26031")
+def member_c0c26031():
+    return "T07 member: C0C26031"
