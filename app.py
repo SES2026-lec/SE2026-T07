@@ -16,3 +16,7 @@ def member_c0c26031():
 @app.route("/member-C0C25085")
 def member_c0c25085():
     return "T07 member:C0C25085 "
+
+@app.route("/member-C0C24043")
+def member_c0c24043():
+    return "T07 member:C0C24043 "
