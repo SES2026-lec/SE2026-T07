@@ -28,3 +28,7 @@ def vscode_c0c25036():
 @app.route("/vscode-c0c26031")
 def vscode_c0c26031():
     return "T07 vscode: C0C26031"
+
+@app.route("/vscode-c0c24043")
+def vscode_c0c24043():
+    return "T07 vscode: C0C24043"
