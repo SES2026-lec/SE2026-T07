@@ -20,3 +20,7 @@ def member_c0c25085():
 @app.route("/member-C0C24043")
 def member_c0c24043():
     return "T07 member:C0C24043 "
+
+@app.route("/vscode-c0c25036")
+def vscode_c0c25036():
+    return "T07 vscode: C0C25036"
