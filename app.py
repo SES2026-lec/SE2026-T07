@@ -12,3 +12,7 @@ def member_c0c25036():
 @app.route("/member-c0c26031")
 def member_c0c26031():
     return "T07 member: C0C26031"
+
+@app.route("/member-<C0C25085>")
+def member_<学籍番号>():
+    return "T07 member: <廣嶋桜子>"
